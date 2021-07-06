@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+
+# Env
+.env
+
+# Hardhat files
+cache
+artifacts
+build
+
+# Custom testing
+testing/
